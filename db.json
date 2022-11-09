@@ -1,64 +1,125 @@
 {
     "users": [
       {
-        "id": 1,
+        "id":1,
         "name": "Gertrudis Tatterton",
         "age": 18,
         "email": "gtatterton0@ehow.com"
       },
       {
-        "id": 2,
+        "id":2,
         "name": "Gail Newbatt",
         "age": 53,
         "email": "gnewbatt1@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
-      },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
       }
+    ],
+    "brush":[
+      {
+        "id":"brush1",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-006Highlighter.jpg?v=1627660002",
+        "title":"Blend Trend Face Brush - 006 Highlighter",
+        "price":"399",
+        "rating":"4.7(23)",
+        "cat":"brushes",
+        "subcat":"facebrush"
+        },
+        {
+        "id":"brush2",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-003Contour.jpg?v=1627659996",
+        "title":"Blend Trend Face Brush - 003 Contour",
+        "price":"399",
+        "rating":"4.5(13)",
+        "cat":"brushes",
+        "subcat":"facebrush"
+        },
+        {
+        "id":"brush3",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-5-min.jpg?v=1627573639",
+        "title":"Blend Trend Dual Eyeshadow Brush - 412 Flat + Round",
+        "price":"599",
+        "rating":"5.0(2)",
+        "cat":"brushes",
+        "subcat":"eyebrush"
+        },
+        {
+        "id":"brush4",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-13.jpg?v=1627659977",
+        "title":"Blend Trend Dual Eyeshadow Brush - 413 Flat + Round Xl",
+        "price":"599",
+        "rating":"5.0(2)",
+        "cat":"brushes",
+        "subcat":"eyebrush"
+        },
+        {
+        "id":"brush5",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-12-min.jpg?v=1627573647",
+        "title":"Blend Trend Dual Face Brush - 075 Powder + Foundation",
+        "price":"599",
+        "rating":"4.8(42)",
+        "cat":"brushes",
+        "subcat":"facebrush"
+        },
+        {
+        "id":"brush6",  
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-2-min.jpg?v=1627573652",
+        "title":"Blend Trend Eyeshadow Brush - 041 Flat",
+        "price":"399",
+        "rating":"5.0(3)",
+        "cat":"brushes",
+        "subcat":"eyebrush"
+        },
+        {
+        "id":"brush7",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-3-min.jpg?v=1627573657",
+        "title":"Blend Trend Eyeshadow Brush - 042 Round",
+        "price":"399",
+        "rating":"4.4(5)",
+        "cat":"brushes",
+        "subcat":"eyebrush"
+        },
+        {
+        "id":"brush8",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Blend-Trend-WBG-images-14_1.jpg?v=1627659982",
+        "title":"Blend Trend Eyeshadow Brush - 043 Round Xl",
+        "price":"399",
+        "rating":"4.8(6)",
+        "cat":"brushes",
+        "subcat":"eyebrush"
+        },
+        {
+        "id":"brush9",  
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFoundationBrush-052Kabuki.jpg?v=1627573664",
+        "title":"Blend Trend Foundation Brush - 052 Kabuki",
+        "price":"399",
+        "rating":"4.8(26)",
+        "cat":"brushes",
+        "subcat":"facebrush"
+        },
+        {
+        "id":"brush10",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-001Blush.jpg?v=1627659984",
+        "title":"Blend Trend Face Brush - 001 Blush",
+        "price":"399",
+        "rating":"4.9(15)",
+        "cat":"brushes",
+        "subcat":"facebrush"
+        },
+        {
+        "id":"brush11",  
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-007Powder.jpg?v=1627660008",
+        "title":"Blend Trend Face Brush - 007 Powder",
+        "price":"399",
+        "rating":"4.9(24)",
+        "cat":"brushes",
+        "subcat":"facebrush"
+        },
+        {
+        "id":"brush12",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/BeginnersEssentialsCombo3-WBGimages.jpg?v=1630683820",
+        "title":"Face Essentials Combo",
+        "price":"1499",
+        "rating":"5.0(1)",
+        "cat":"brushes"
+        }
     ]
   }
