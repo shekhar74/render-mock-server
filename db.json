@@ -121,5 +121,11 @@
         "rating":"5.0(1)",
         "cat":"brushes"
         }
-    ]
+    ],
+    "cart":[
+      
+    ],
+    "wish":[],
+    "makeup":[],
+    "skincare":[]
   }
